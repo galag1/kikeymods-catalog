@@ -1,4 +1,21 @@
 {
   "version": 1,
-  "mods": []
+  "mods": [
+    {
+      "id": "ben10",
+      "name": "BEN 10 MIX ALIEN BETA MOD",
+      "category": "BEN 10 • ALIEN MODS",
+      "description": "Ben 10 alien mod for GTA San Andreas.",
+      "image": "",
+      "url": "https://modsfire.com/8Fv2DIzcBwwpC24"
+    },
+    {
+      "id": "saitama2026",
+      "name": "SAITAMA MOD 2026 LATEST UPDATE",
+      "category": "SAITAMA • CHARACTER MODS",
+      "description": "Saitama mod latest update for GTA San Andreas.",
+      "image": "",
+      "url": "https://modsfire.com/csWQ6N8wHLuvY1Y"
+    }
+  ]
 }
