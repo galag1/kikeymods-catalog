@@ -2,6 +2,14 @@
   "version": 1,
   "mods": [
     {
+      "id": "kikeymods-update-notice",
+      "name": "PLEASE UPDATE — KIKEY MODS 2.0",
+      "category": "APP UPDATE",
+      "description": "A new Kikey Mods version is available! Tap to download the latest APK.",
+      "image": "https://raw.githubusercontent.com/galag1/kikeymods-catalog/main/images/kikeymods-update.png",
+      "url": "https://github.com/galag1/kikeymods-catalog/releases/latest/download/KikeyMods.apk"
+    },
+    {
       "id": "ben10",
       "name": "BEN 10 MIX ALIEN BETA MOD",
       "category": "MODS",
