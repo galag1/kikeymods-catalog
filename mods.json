@@ -3,10 +3,9 @@
   "mods": [
     {
       "id": "kikeymods-update-notice",
-      "name": "PLEASE UPDATE — KIKEY MODS 2.0",
+      "name": "HELLO EVERYONE! I'VE UPDATED OUR APP! LET'S GOOO! 🔥",
       "category": "APP UPDATE",
-      "description": "A new Kikey Mods version is available! Tap to download the latest APK.",
-      "image": "https://raw.githubusercontent.com/galag1/kikeymods-catalog/main/images/kikeymods-update.png",
+      "description": "PLEASE CLICK THE DOWNLOAD BUTTON BELOW! 👇🏻💚",
       "url": "https://github.com/galag1/kikeymods-catalog/releases/latest/download/KikeyMods.apk"
     },
     {
